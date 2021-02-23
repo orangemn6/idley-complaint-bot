@@ -1,12 +1,12 @@
 {
   "name": "idley-complaint",
   "version": "1.0.0",
-  "description": "Discord bot for SitePoint",
+  "description": "Discord bot for Idley",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Michiel Mulders",
+  "author": "Orangemn6",
   "license": "ISC",
   "dependencies": {
     "@discordjs/uws": "^10.149.0",
